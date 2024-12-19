@@ -1,6 +1,7 @@
 # 學生資料管理系統
 
 這是一個基於 React 和 MongoDB 的學生資料管理系統，實現完整的 CRUD（Create, Read, Update, Delete）基本功能。
+http://localhost:5173/
 Demo影片: https://youtu.be/rRrQQLgGT0I
 
 ## 功能特點
